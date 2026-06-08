@@ -1,0 +1,120 @@
+[
+   {
+      "arguments": [
+         "gfortran",
+         "-c",
+         ".\\.\\src\\fluctuation.f90",
+         "-fimplicit-none",
+         "-Werror=implicit-interface",
+         "-ffree-form",
+         "-J",
+         "build\\gfortran_46B186824249A86E",
+         "-Ibuild\\gfortran_46B186824249A86E",
+         "-o",
+         "build\\gfortran_46B186824249A86E\\ch_subroutine_module\\src_fluctuation.f90.o"
+      ],
+      "directory": "D:\\github\\modular_programming\\model_B\\ch_subroutine_module",
+      "file": ".\\.\\src\\fluctuation.f90"
+   },
+   {
+      "arguments": [
+         "gfortran",
+         "-c",
+         ".\\.\\src\\post_processing.f90",
+         "-fimplicit-none",
+         "-Werror=implicit-interface",
+         "-ffree-form",
+         "-J",
+         "build\\gfortran_46B186824249A86E",
+         "-Ibuild\\gfortran_46B186824249A86E",
+         "-o",
+         "build\\gfortran_46B186824249A86E\\ch_subroutine_module\\src_post_processing.f90.o"
+      ],
+      "directory": "D:\\github\\modular_programming\\model_B\\ch_subroutine_module",
+      "file": ".\\.\\src\\post_processing.f90"
+   },
+   {
+      "arguments": [
+         "gfortran",
+         "-c",
+         ".\\.\\src\\fd_implement.f90",
+         "-fimplicit-none",
+         "-Werror=implicit-interface",
+         "-ffree-form",
+         "-J",
+         "build\\gfortran_46B186824249A86E",
+         "-Ibuild\\gfortran_46B186824249A86E",
+         "-o",
+         "build\\gfortran_46B186824249A86E\\ch_subroutine_module\\src_fd_implement.f90.o"
+      ],
+      "directory": "D:\\github\\modular_programming\\model_B\\ch_subroutine_module",
+      "file": ".\\.\\src\\fd_implement.f90"
+   },
+   {
+      "arguments": [
+         "gfortran",
+         "-c",
+         ".\\.\\src\\chemical_potential.f90",
+         "-fimplicit-none",
+         "-Werror=implicit-interface",
+         "-ffree-form",
+         "-J",
+         "build\\gfortran_46B186824249A86E",
+         "-Ibuild\\gfortran_46B186824249A86E",
+         "-o",
+         "build\\gfortran_46B186824249A86E\\ch_subroutine_module\\src_chemical_potential.f90.o"
+      ],
+      "directory": "D:\\github\\modular_programming\\model_B\\ch_subroutine_module",
+      "file": ".\\.\\src\\chemical_potential.f90"
+   },
+   {
+      "arguments": [
+         "gfortran",
+         "-c",
+         ".\\.\\src\\laplace.f90",
+         "-fimplicit-none",
+         "-Werror=implicit-interface",
+         "-ffree-form",
+         "-J",
+         "build\\gfortran_46B186824249A86E",
+         "-Ibuild\\gfortran_46B186824249A86E",
+         "-o",
+         "build\\gfortran_46B186824249A86E\\ch_subroutine_module\\src_laplace.f90.o"
+      ],
+      "directory": "D:\\github\\modular_programming\\model_B\\ch_subroutine_module",
+      "file": ".\\.\\src\\laplace.f90"
+   },
+   {
+      "arguments": [
+         "gfortran",
+         "-c",
+         ".\\.\\src\\boundary_condition.f90",
+         "-fimplicit-none",
+         "-Werror=implicit-interface",
+         "-ffree-form",
+         "-J",
+         "build\\gfortran_46B186824249A86E",
+         "-Ibuild\\gfortran_46B186824249A86E",
+         "-o",
+         "build\\gfortran_46B186824249A86E\\ch_subroutine_module\\src_boundary_condition.f90.o"
+      ],
+      "directory": "D:\\github\\modular_programming\\model_B\\ch_subroutine_module",
+      "file": ".\\.\\src\\boundary_condition.f90"
+   },
+   {
+      "arguments": [
+         "gfortran",
+         "-c",
+         "app\\main.f90",
+         "-fimplicit-none",
+         "-Werror=implicit-interface",
+         "-ffree-form",
+         "-J",
+         "build\\gfortran_46B186824249A86E",
+         "-Ibuild\\gfortran_46B186824249A86E",
+         "-o",
+         "build\\gfortran_46B186824249A86E\\ch_subroutine_module\\app_main.f90.o"
+      ],
+      "directory": "D:\\github\\modular_programming\\model_B\\ch_subroutine_module",
+      "file": "app\\main.f90"
+   }]
