@@ -1,0 +1,18 @@
+[
+   {
+      "arguments": [
+         "gfortran",
+         "-c",
+         "test\\check.f90",
+         "-fimplicit-none",
+         "-Werror=implicit-interface",
+         "-ffree-form",
+         "-J",
+         "build\\gfortran_46B186824249A86E",
+         "-Ibuild\\gfortran_46B186824249A86E",
+         "-o",
+         "build\\gfortran_46B186824249A86E\\ac_function_module\\test_check.f90.o"
+      ],
+      "directory": "D:\\github\\modular_programming\\model_A\\ac_function_module",
+      "file": "test\\check.f90"
+   }]

@@ -1,0 +1,103 @@
+[
+   {
+      "arguments": [
+         "gfortran",
+         "-c",
+         ".\\.\\src\\post_processing.f90",
+         "-fimplicit-none",
+         "-Werror=implicit-interface",
+         "-ffree-form",
+         "-J",
+         "build\\gfortran_46B186824249A86E",
+         "-Ibuild\\gfortran_46B186824249A86E",
+         "-o",
+         "build\\gfortran_46B186824249A86E\\ac_ch_function_module\\src_post_processing.f90.o"
+      ],
+      "directory": "D:\\github\\modular_programming\\model_c\\ac_ch_function_module",
+      "file": ".\\.\\src\\post_processing.f90"
+   },
+   {
+      "arguments": [
+         "gfortran",
+         "-c",
+         ".\\.\\src\\deriv_con.f90",
+         "-fimplicit-none",
+         "-Werror=implicit-interface",
+         "-ffree-form",
+         "-J",
+         "build\\gfortran_46B186824249A86E",
+         "-Ibuild\\gfortran_46B186824249A86E",
+         "-o",
+         "build\\gfortran_46B186824249A86E\\ac_ch_function_module\\src_deriv_con.f90.o"
+      ],
+      "directory": "D:\\github\\modular_programming\\model_c\\ac_ch_function_module",
+      "file": ".\\.\\src\\deriv_con.f90"
+   },
+   {
+      "arguments": [
+         "gfortran",
+         "-c",
+         ".\\.\\src\\laplace.f90",
+         "-fimplicit-none",
+         "-Werror=implicit-interface",
+         "-ffree-form",
+         "-J",
+         "build\\gfortran_46B186824249A86E",
+         "-Ibuild\\gfortran_46B186824249A86E",
+         "-o",
+         "build\\gfortran_46B186824249A86E\\ac_ch_function_module\\src_laplace.f90.o"
+      ],
+      "directory": "D:\\github\\modular_programming\\model_c\\ac_ch_function_module",
+      "file": ".\\.\\src\\laplace.f90"
+   },
+   {
+      "arguments": [
+         "gfortran",
+         "-c",
+         ".\\.\\src\\deriv_phi.f90",
+         "-fimplicit-none",
+         "-Werror=implicit-interface",
+         "-ffree-form",
+         "-J",
+         "build\\gfortran_46B186824249A86E",
+         "-Ibuild\\gfortran_46B186824249A86E",
+         "-o",
+         "build\\gfortran_46B186824249A86E\\ac_ch_function_module\\src_deriv_phi.f90.o"
+      ],
+      "directory": "D:\\github\\modular_programming\\model_c\\ac_ch_function_module",
+      "file": ".\\.\\src\\deriv_phi.f90"
+   },
+   {
+      "arguments": [
+         "gfortran",
+         "-c",
+         ".\\.\\src\\initial_micro.f90",
+         "-fimplicit-none",
+         "-Werror=implicit-interface",
+         "-ffree-form",
+         "-J",
+         "build\\gfortran_46B186824249A86E",
+         "-Ibuild\\gfortran_46B186824249A86E",
+         "-o",
+         "build\\gfortran_46B186824249A86E\\ac_ch_function_module\\src_initial_micro.f90.o"
+      ],
+      "directory": "D:\\github\\modular_programming\\model_c\\ac_ch_function_module",
+      "file": ".\\.\\src\\initial_micro.f90"
+   },
+   {
+      "arguments": [
+         "gfortran",
+         "-c",
+         "app\\main.f90",
+         "-fimplicit-none",
+         "-Werror=implicit-interface",
+         "-ffree-form",
+         "-J",
+         "build\\gfortran_46B186824249A86E",
+         "-Ibuild\\gfortran_46B186824249A86E",
+         "-o",
+         "build\\gfortran_46B186824249A86E\\ac_ch_function_module\\app_main.f90.o"
+      ],
+      "directory": "D:\\github\\modular_programming\\model_c\\ac_ch_function_module",
+      "file": "app\\main.f90"
+   }]
