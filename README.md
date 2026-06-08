@@ -28,12 +28,12 @@ The Problem with External Procedures is summarized below in the table
 
 **The basic idea** of the modular procedures is to improve the aspects of the external procedures.
 
-![comparison](images/modular_external.JPG)
+![comparison](images/modular_external.jpg)
 
 **The Solution** to the external procedures is the **Modular Architecture**
 where INTERFACE blocks and EXTERNAL statements disappear entirely:
 
- ![comparison](images/external_modular.JPG)
+ ![comparison](images/external_modular.jpg)
 
 
 | Feature	| Traditional Repository | This repository|
@@ -47,7 +47,7 @@ where INTERFACE blocks and EXTERNAL statements disappear entirely:
 
 ## **Feature 2: fpm (Fortran Package Manager) as Build Tool**
 
- ![comparison](images/fpm_logo.JPG)
+ ![comparison](images/fpm_logo.jpg)
 
 **The Problem with Manual Building**
 
