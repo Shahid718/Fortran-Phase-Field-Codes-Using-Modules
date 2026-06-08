@@ -1,0 +1,20 @@
+.\.\src\post_processing.f90:74:26:
+
+   74 |      write ( 2, * ) ( phi(i,j), j = 1, Ny )
+      |                          1
+Warning: Legacy Extension: REAL array index at (1)
+.\.\src\post_processing.f90:74:28:
+
+   74 |      write ( 2, * ) ( phi(i,j), j = 1, Ny )
+      |                            1
+Warning: Legacy Extension: REAL array index at (1)
+.\.\src\post_processing.f90:74:32:
+
+   74 |      write ( 2, * ) ( phi(i,j), j = 1, Ny )
+      |                                1~~
+Warning: Deleted feature: Loop variable at (1) must be integer
+.\.\src\post_processing.f90:73:6:
+
+   73 |   do i = 1, Nx
+      |      1~
+Warning: Deleted feature: Loop variable at (1) must be integer
