@@ -28,12 +28,12 @@ The Problem with External Procedures is summarized below in the table
 
 **The basic idea** of the modular procedures is to improve the aspects of the external procedures.
 
-![comparison](images/modular_external.jpg)
+![comparison](images/ext_mod.svg)
 
 **The Solution** to the external procedures is the **Modular Architecture**
 where INTERFACE blocks and EXTERNAL statements disappear entirely:
 
- ![comparison](images/external_modular.jpg)
+ ![comparison](images/mod_ext.svg)
 
 
 | Feature	| Traditional Repository | This repository|
